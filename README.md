@@ -2,7 +2,8 @@
 # Password Analyzer – Web App
 
 A smart web-based Password Strength Checker that analyzes your password, identifies weaknesses, checks for data breaches, and even suggests a strong alternative.
-https://password-analyzer-tool-toye.onrender.com
+
+It is hosted live: https://password-analyzer-tool-toye.onrender.com
 
 ## Features
 - Password Strength Scoring (out of 5)
